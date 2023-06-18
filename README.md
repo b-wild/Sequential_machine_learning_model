@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# equential Machine Learning Model, nonprofit review
 
 
 ## Overview of the Analysis
