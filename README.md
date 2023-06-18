@@ -30,48 +30,24 @@ Summary the results of the machine learning models, and recommendation none of t
 * The Kesturner was run to insure that the optimized number of levels and activiation was used and also resulted in similar results.  
 * The results found with the available data and created models did not produce statisfactoyry confidence to sucessfully predict the sucess of the applications.
 
+### Technologies used in this project: 
+* Google Colab
+* Python
+* Pandas
+* Tensor Flow
+* SK Learn
+
+### Files Included
+* [Deep Learning, Sequential ML](Deep_learning/Deep_Learning.ipynb)
+* [Deep Learning, Sequential 2, model optimizing](Deep_Learning_optimized.ipynb)
+* [Deep Learnig, Keras Tuner](Deep_Learning/Optimizing_Model.ipynb)
+
+## Filed Provided
+* [Starter Code](Starter_Code/Starter_Code.ipynb)
 
 
+#### Resources
+* [Sample Dataset]("https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv")
 
-
-
-# CHALLENGE
-
-## Background
-In this Challenge, you’ll use various techniques to train and evaluate a model based on loan risk. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
-
-## Instructions
-The instructions for this Challenge are divided into the following subsections:
-
-## Split the Data into Training and Testing Sets
-
-Create a Logistic Regression Model with the Original Data
-
-Predict a Logistic Regression Model with Resampled Training Data
-
-Write a Credit Risk Analysis Report
-
-Split the Data into Training and Testing Sets
-
-Read the lending_data.csv data from the Resources folder into a Pandas DataFrame.
-
-Create the labels set (y) from the “loan_status” column, and then create the features (X) DataFrame from the remaining columns.
-
-Split the data into training and testing datasets by using train_test_split.
-
-## Create a Logistic Regression Model with the Original Data
-Use your knowledge of logistic regression to complete the following steps:
-
-Fit a logistic regression model by using the training data (X_train and y_train).
-
-Save the predictions for the testing data labels by using the testing feature data (X_test) and the fitted model.
-
-Evaluate the model’s performance by doing the following:
-
-Calculate the accuracy score of the model.
-
-Generate a confusion matrix.
-
-Print the classification report.
-
-Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
+### References
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
