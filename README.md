@@ -47,7 +47,7 @@ Summary the results of the machine learning models, and recommendation none of t
 
 
 #### Resources
-* [Sample Dataset]("https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv")
+* [Sample Dataset](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv)
 
 ### References
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
