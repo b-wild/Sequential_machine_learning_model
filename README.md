@@ -42,7 +42,7 @@ Summary the results of the machine learning models, and recommendation none of t
 * [Deep Learning, Sequential 2, model optimizing](Deep_learning/Deep_Learning_optimized.ipynb)
 * [Deep Learnig, Keras Tuner](Deep_learning/Optimizing_Model.ipynb)
 
-## Filed Provided
+## Files Provided
 * [Starter Code](Starter_Code/Starter_Code.ipynb)
 
 
